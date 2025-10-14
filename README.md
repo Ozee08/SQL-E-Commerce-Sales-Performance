@@ -77,4 +77,4 @@ FROM transactions
 GROUP BY month
 ORDER BY month;
 ```
-![Monthly Revenue Trend](./Project%20Images/SQL.Python%201.png)
+![Monthly Revenue Trend](E-commerce%20Sales/Project%20Images/SQL.Python%201.png)
