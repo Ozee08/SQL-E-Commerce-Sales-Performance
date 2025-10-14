@@ -201,3 +201,12 @@ It reflects the workflow of a professional data analyst — from data cleaning a
 The results can guide business decisions in pricing, inventory, and customer engagement.
 
 --- 
+
+## Author
+
+**Duru Chukwuma**
+
+ chukwuduru588@gmail.com
+
+🔗 [LinkedIn](https://linkedin.com/in/chukwuma-duru)  
+🔗 [Portfolio](https://www.datascienceportfol.io/chukwuduru588)
